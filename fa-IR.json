@@ -282,6 +282,7 @@
 	"I_ACCEPT_BY_CLICKING": "با فشردن دکه بالا من اعلام میکنم که میپذیرم ",
 	"TOS": "شرایط و قوانین",
 	"MUST_ACCEPT_TERMS": "شما باید قوانین را بپذیرید",
+	"MUST_ACCEPT_PRIVACY_POLICY": "You must accept the Privacy Policy",
 	"PASSWORDS_NOMATCH": "رمز همخوانی ندارد",
 	"SIGN_UP": "ثبت نام",
 	"SIGN_UP_EMAIL": "ثبت نام با ایمیل",
